@@ -1,0 +1,1 @@
+cd %~dp0 && g++ main.cpp -g -Wall -I"include" -L"lib" -lopencv_core452 -lopencv_videoio452 -lopencv_highgui452 -o x64\main
